@@ -1,5 +1,5 @@
 # andromeda
 nuevo commit
-nuevo commit local
+nuevo commit local con conflicto
 nuevo commit en la rama local
 nuevo commit desde origin
